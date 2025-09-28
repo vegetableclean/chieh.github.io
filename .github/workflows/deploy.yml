@@ -36,15 +36,7 @@ jobs:
           export JEKYLL_ENV=production
           bundle exec jekyll build
 
-      # （可選）若要 PurgeCSS，再打開下一段；否則先略過，避免 Windows/ESM 問題
-      # - name: Purge unused CSS 🧹
-      #   run: |
-      #     npx -y purgecss@5.0.0 \
-      #       --content "_site/**/*.html" "_site/**/*.js" \
-      #       --css "assets/css/*.css" \
-      #       --output "_purged"
-      #     rm -rf _site/assets/css && mkdir -p _site/assets/css
-      #     cp _purged/*.css _site/assets/css/ && rm -rf _purged
+     
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
