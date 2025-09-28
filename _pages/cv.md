@@ -19,7 +19,8 @@ Here you can view or download my most updated resume.
     </a>
   </p>
 
-  <div style="aspect-ratio: 1/1.414; width: 100%; border: 1px solid #ddd; overflow: hidden; border-radius: 8px;">
+  <!-- Full-screen style PDF preview -->
+  <div style="width: 100%; height: 90vh; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
     <iframe
       src="{{ '/assets/cv/chieh_cv.pdf' | relative_url }}#view=FitH"
       style="width:100%; height:100%; border:0;"

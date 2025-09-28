@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Englineering, University of Arizona</a>.
+subtitle: Electrical and Computer Engineering, University of Arizona</a>.
 
 profile:
   align: right
