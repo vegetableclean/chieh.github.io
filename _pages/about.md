@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Englineering, University of Arizona</a>. 
+subtitle: Electrical and Computer Englineering, University of Arizona</a>.
 
 profile:
   align: right
@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-
 Hey, thanks for stopping by! :sparkles: :smile:
 
 I’m a PhD student in Electrical & Computer Engineering at the [University of Arizona](https://ece.engineering.arizona.edu/), advised by Prof. [Salim Hariri](https://ece.engineering.arizona.edu/faculty-staff/faculty/salim-hariri/) in the [Autonomic Computing Laboratory](https://nsfcac.org/).
@@ -37,6 +35,3 @@ I work at the intersection of AI, cybersecurity, and autonomous vehicles, focusi
 Previously, I worked on satellite image super-resolution with deep learning and co-authored work on nation-scale image analysis in [VIP lab](https://sites.google.com/view/viplabntust/) as a research assistant. I received my M.S. in Electronics and Computer Engineering from the [National Taiwan University of Science and Technology](https://ece.ntust.edu.tw/index.php?Lang=en), where my thesis explored age and gender classification with cGAN augmentation.
 
 Outside the lab, I enjoy music— I play the violin, piano, and ukulele, and I won a singing competition in high school.
-
-
-
