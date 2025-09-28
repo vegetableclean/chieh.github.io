@@ -31,6 +31,3 @@ Here you can view or download my most updated resume.
     <p>PDF preview requires JavaScript. You can <a href="{{ '/assets/cv/chieh_cv.pdf' | relative_url }}">download the CV here</a>.</p>
   </noscript>
 </div>
-
-
-
