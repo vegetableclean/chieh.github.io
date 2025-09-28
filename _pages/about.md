@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Englineering, University of Arizona</a>. 1230 E. Speedway Blvd., Tucson, AZ 85721, USA.
+subtitle: Electrical and Computer Englineering, University of Arizona</a>. 
 
 profile:
   align: right
@@ -12,25 +12,31 @@ profile:
     <p>1230 E. Speedway Blvd.</p>
     <p>Tucson, AZ 85721</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Chieh Tsai is a Ph.D. student at the University of Arizona, working under the supervision of Dr. Salim Hariri. Her research focuses on resilience and cybersecurity in autonomous vehicles, with an emphasis on leveraging AI models and intelligent defense mechanisms.
 
-Before her doctoral studies, she conducted graduate research on satellite image super-resolution using deep learning and co-authored work on nation-scale image analysis. She earned her Master’s degree in Electronics and Computer Engineering from the National Taiwan University of Science and Technology, where her thesis focused on age and gender classification through computer vision and machine learning
 
-**Connect with me:**
+Hey, thanks for stopping by! :sparkles: :smile:
 
-- GitHub: [vegetableclean](https://github.com/vegetableclean/)
-- Google Scholar: [Chieh Tsai](https://scholar.google.com/citations?user=dWFu_R8AAAAJ&hl=en)
+I’m a PhD student in Electrical & Computer Engineering at the [University of Arizona](https://ece.engineering.arizona.edu/), advised by Prof. [Salim Hariri](https://ece.engineering.arizona.edu/faculty-staff/faculty/salim-hariri/) in the [Autonomic Computing Laboratory](https://nsfcac.org/).
+
+I work at the intersection of AI, cybersecurity, and autonomous vehicles, focusing on resilience—anticipating, withstanding, and recovering from failures and attacks. I design and evaluate ML-driven defenses to make autonomy safer, including experiments on a [Quanser Qcar2 testbed](https://www.quanser.com/products/qcar-2/)
+
+Previously, I worked on satellite image super-resolution with deep learning and co-authored work on nation-scale image analysis in [VIP lab](https://sites.google.com/view/viplabntust/) as a research assistant. I received my M.S. in Electronics and Computer Engineering from the [National Taiwan University of Science and Technology](https://ece.ntust.edu.tw/index.php?Lang=en), where my thesis explored age and gender classification with cGAN augmentation.
+
+Outside the lab, I enjoy music— I play the violin, piano, and ukulele, and I won a singing competition in high school.
+
+
+
