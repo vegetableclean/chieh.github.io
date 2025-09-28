@@ -6,7 +6,7 @@ subtitle: Electrical and Computer Englineering, University of Arizona</a>. 1230 
 
 profile:
   align: right
-  image: chieh.jpg
+  image: chieh1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1230 E. Speedway Blvd.</p>
