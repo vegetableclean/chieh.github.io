@@ -2,7 +2,7 @@ name: Deploy site
 
 on:
   push:
-    branches: [ main ]   # 或 [ master ]，請二擇一
+    branches: [main] # 或 [ master ]，請二擇一
   workflow_dispatch:
 
 permissions:
