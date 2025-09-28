@@ -61,8 +61,11 @@ on:
       - "!README.md"
   workflow_dispatch:
 
+
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
@@ -100,7 +103,10 @@ jobs:
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        #uses: JamesIves/github-pages-deploy-action@v4
+        - uses: actions/upload-pages-artifact@v3
+        - uses: actions/deploy-pages@v4
+
         with:
           folder: _site
       - name: Fix permission
