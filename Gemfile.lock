@@ -321,7 +321,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
-  wdm (>= 0.1.0)
+  wdm
 
 BUNDLED WITH
    2.6.9
